@@ -21,8 +21,6 @@ function App() {
   return (
       <div className="app bg-gray-20">
        <Navbar isTop={isTopOfPage}/>
-
-       <div className="h-[5000px]">d</div>
       </div>
 
   )
